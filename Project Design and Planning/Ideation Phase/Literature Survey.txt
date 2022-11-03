@@ -1,0 +1,21 @@
+1. S Impedovo, G Pirlo, R Modugno and A Ferante, "Zoning Methods for Hand-Written Character Recognition. An Overview", International Conference on Frontiers in Handwriting Recognition IEEE Computer Society, pp. 329-334, 2010.
+
+2.
+Huailin Zhao, Yawei Hou, Shifang Xu, Congdao Han and Masanori Sugisaka, "Research on a Method of Character Recognition for Self learning Errors", The 2017 International Conference on Artifical Life and Robotics, pp. 190-193, 2017.
+
+3.L Deng, G Hinton and B Kingsbury, "New types of deep neural network learning for speech recognition and related applications an overview", Proceedings of the IEEE International Conference on Acoustics Speech and Signal Processing, pp. 8599-8603, 2013.
+
+4.Xu Peng and Bo Hua, "Facial expression recognition based on convolutional neural networks", Microcomputer & Its Applications, no. 12, pp. 45-47, 2015.
+
+
+5.C Zhang and Z Y Zhang, "Improving multiview face detection with multitask deep convolutional neural networks", Proceedings of the IEEE Winter Conference on Applications of Computer Vision, pp. 1036-1041, 2014.
+ 
+6.Wu Meixian, Zhang Xueliang, Wen Shuhua and Guo Qin, "BP neural network dual learning rate adaptive learning algorithm", Modern Manufacturing Engineering, no. 10, pp. 29-32, 2005.
+
+7.Yi Chaoren and Deng Yanni, "Multichannel convolution neural network image recognition method", Journal of Henan University of Science & Technology (Natural Science), no. 3, pp. 41-44, 2017.
+ 
+8.Chen Haoxiang, Cai Jianming, Liu Kengran, Lin Qiushuang, Zhang Wenling and Zhou Tao, "Handwritten digital depth feature learning and recognition", Computer Technology and Development, vol. 26, no. 7, pp. 19-23, July 2016.
+ 
+9.Y. LeCun et al., "Comparison of learning algorithms for handwritten digit recognition", Proceedings of the International Conference on Articial Neural Networks, pp. 53-60, 1995.
+ 
+10.M. Shi, Y. Fujisawa, T. Wakabayashi and F. Kimura, "Handwritten numeral recognition using gradient and curvature of gray scale image", Pattern Recognition, vol. 35, no. 10, pp. 2051-2059, 2002.
